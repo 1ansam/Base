@@ -2,4 +2,4 @@
 Based ViewBinding
 
 
-Support Activity, Fragment, Adapter
+Support Activity, Fragment
