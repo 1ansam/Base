@@ -1,2 +1,5 @@
 # Base
-封装了ViewBinding
+Based ViewBinding
+
+
+Support Activity, Fragment, Adapter
